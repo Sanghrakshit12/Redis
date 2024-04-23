@@ -15,5 +15,5 @@ This project implements a task queue system using Redis and Node.js. It consists
 ### Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/task-queue.git
-   cd Redis
+   git clone 
+2. cd Redis
